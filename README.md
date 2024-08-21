@@ -62,7 +62,7 @@ After logging in, you can download and use the model directly in your Python cod
 Once everything is set up, run your Python script (e.g., main.py) to launch the HR assistant:
    ```bash
    python main.py
-   ```_
+   ```
 ⚠️_Note: If you are using a Jupyter Notebook, run the cells as needed._
 
 ### Monitoring and Optimization
