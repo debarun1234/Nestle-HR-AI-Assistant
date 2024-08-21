@@ -4,10 +4,10 @@ This repository contains the code and resources for building an AI-powered HR as
 
 ## Files
 
-- **ags_nestle_genai.ipynb**: Jupyter Notebook containing the implementation of the HR Assistant.
-- **nestle_hr_policy.pdf**: The Nestlé HR policy document used as the source for information.
-- **Nestle_HR_Assistant_Code.docx**: Documentation with the complete code implementation.
-- **AI_HR_Assistant_output.jpg**: Screenshot of the assistant in action.
+- **[ags_nestle_genai.ipynb](./ags_nestle_genai.ipynb)**: Jupyter Notebook containing the implementation of the HR Assistant.
+- **[nestle_hr_policy.pdf](./nestle_hr_policy.pdf)**: The Nestlé HR policy document used as the source for information.
+- **[Nestle_HR_Assistant_Code.docx](./Nestle_HR_Assistant_Code.docx)**: Documentation with the complete code implementation.
+- **[AI_HR_Assistant_output.jpg](./AI_HR_Assistant_output.jpg)**: Screenshot of the assistant in action.
 
 ## Installation
 
