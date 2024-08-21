@@ -63,7 +63,7 @@ Once everything is set up, run your Python script (e.g., main.py) to launch the 
    ```bash
    python main.py
    ```
-⚠️_Note: If you are using a Jupyter Notebook, run the cells as needed._
+_⚠️Note: If you are using a Jupyter Notebook, run the cells as needed._
 
 ### Monitoring and Optimization
 1. **Monitor GPU Usage:**
